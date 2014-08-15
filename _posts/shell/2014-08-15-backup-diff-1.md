@@ -1,6 +1,5 @@
 ---
 layout: post
-category: shell
 title: "backup files"
 tags: [shell,diff,date]
 description: "backup"
