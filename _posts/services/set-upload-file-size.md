@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "backup files"
-tags: [shell,diff,date]
-description: "backup"
+title: "set upload file size"
+tags: [filesize, upload]
+description: "upload file size"
 
 ---
 {% include JB/setup %}
