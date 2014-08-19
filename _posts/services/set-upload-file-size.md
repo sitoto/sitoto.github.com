@@ -1,4 +1,15 @@
-Nginx、Apache、PHP、Mantis上传文件、附件大小设置[上传问题解决]
+---
+layout: post
+title: "backup files"
+tags: [shell,diff,date]
+description: "backup"
+
+---
+{% include JB/setup %}
+
+
+
+Nginx、Apache、PHP、Mantis上传文件、附件大小设置
  
 Nginx：
 
